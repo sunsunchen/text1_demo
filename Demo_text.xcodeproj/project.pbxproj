@@ -15,6 +15,7 @@
 		F61002BD214639C200A3D68F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F61002BB214639C200A3D68F /* LaunchScreen.storyboard */; };
 		F61002C8214639C200A3D68F /* Demo_textTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61002C7214639C200A3D68F /* Demo_textTests.swift */; };
 		F61002D3214639C200A3D68F /* Demo_textUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61002D2214639C200A3D68F /* Demo_textUITests.swift */; };
+		F61002E321463D9900A3D68F /* Text_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61002E221463D9900A3D68F /* Text_ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F61002CE214639C200A3D68F /* Demo_textUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Demo_textUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F61002D2214639C200A3D68F /* Demo_textUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_textUITests.swift; sourceTree = "<group>"; };
 		F61002D4214639C200A3D68F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F61002E221463D9900A3D68F /* Text_ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Text_ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				F61002AF214639C100A3D68F /* AppDelegate.swift */,
 				F61002B1214639C100A3D68F /* ViewController.swift */,
+				F61002E221463D9900A3D68F /* Text_ViewController.swift */,
 				F61002B3214639C100A3D68F /* Main.storyboard */,
 				F61002B9214639C200A3D68F /* Assets.xcassets */,
 				F61002BB214639C200A3D68F /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				F61002B2214639C100A3D68F /* ViewController.swift in Sources */,
 				F61002B8214639C100A3D68F /* Demo_text.xcdatamodeld in Sources */,
 				F61002B0214639C100A3D68F /* AppDelegate.swift in Sources */,
+				F61002E321463D9900A3D68F /* Text_ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
